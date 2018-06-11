@@ -1,0 +1,27 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.springbootTest.pojo.Resource",
+      "name": "com.ianlee.opensource",
+      "type": "com.springbootTest.pojo.Resource"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.springbootTest.pojo.Resource",
+      "name": "com.ianlee.opensource.language",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.springbootTest.pojo.Resource",
+      "name": "com.ianlee.opensource.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.springbootTest.pojo.Resource",
+      "name": "com.ianlee.opensource.website",
+      "type": "java.lang.String"
+    }
+  ]
+}
